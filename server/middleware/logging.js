@@ -117,7 +117,4 @@ function generateRequestId() {
 module.exports = {
   logger,
   loggingMiddleware
-};
-
-// For backward compatibility, export the middleware as the default export
-module.exports.logger = loggingMiddleware; 
+}; 

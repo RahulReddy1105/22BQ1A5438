@@ -1,0 +1,7 @@
+{"error":"{\"error\":\"Internal server error\"}","level":"error","message":"Error response","method":"GET","service":"url-shortener","statusCode":500,"timestamp":"2025-08-01 14:45:03","url":"/favicon.ico"}
+{"error":"{\"error\":\"Internal server error\"}","level":"error","message":"Error response","method":"GET","service":"url-shortener","statusCode":500,"timestamp":"2025-08-01 14:45:03","url":"/manifest.json"}
+{"error":"{\"error\":\"Internal server error\"}","level":"error","message":"Error response","method":"GET","service":"url-shortener","statusCode":500,"timestamp":"2025-08-01 14:48:00","url":"/favicon.ico"}
+{"error":"{\"error\":\"Internal server error\"}","level":"error","message":"Error response","method":"GET","service":"url-shortener","statusCode":500,"timestamp":"2025-08-01 14:48:00","url":"/manifest.json"}
+{"error":"{\"error\":\"Short URL not found or expired\"}","level":"error","message":"Error response","method":"GET","service":"url-shortener","statusCode":404,"timestamp":"2025-08-01 14:58:18","url":"/favicon.ico"}
+{"error":"{\"error\":\"Short URL not found or expired\"}","level":"error","message":"Error response","method":"GET","service":"url-shortener","statusCode":404,"timestamp":"2025-08-01 14:58:18","url":"/manifest.json"}
+{"error":"{\"error\":\"Short URL not found or expired\"}","level":"error","message":"Error response","method":"GET","service":"url-shortener","statusCode":404,"timestamp":"2025-08-01 14:59:53","url":"/manifest.json"}
